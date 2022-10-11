@@ -1,0 +1,709 @@
+{
+    "0": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "0",
+        "Linear": "0",
+        "Mine": "0"
+    },
+    "1": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "1",
+        "Linear": "0",
+        "Mine": "0"
+    },
+    "2": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "2",
+        "Linear": "1",
+        "Mine": "0"
+    },
+    "3": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "3",
+        "Linear": "1",
+        "Mine": "0"
+    },
+    "4": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "4",
+        "Linear": "1",
+        "Mine": "0"
+    },
+    "5": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "5",
+        "Linear": "1",
+        "Mine": "1"
+    },
+    "6": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "6",
+        "Linear": "2",
+        "Mine": "1"
+    },
+    "7": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "7",
+        "Linear": "2",
+        "Mine": "1"
+    },
+    "8": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "8",
+        "Linear": "2",
+        "Mine": "1"
+    },
+    "9": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "9",
+        "Linear": "3",
+        "Mine": "1"
+    },
+    "10": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "10",
+        "Linear": "3",
+        "Mine": "2"
+    },
+    "11": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "11",
+        "Linear": "3",
+        "Mine": "2"
+    },
+    "12": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "12",
+        "Linear": "3",
+        "Mine": "2"
+    },
+    "13": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "13",
+        "Linear": "4",
+        "Mine": "2"
+    },
+    "14": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "14",
+        "Linear": "4",
+        "Mine": "2"
+    },
+    "15": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "15",
+        "Linear": "4",
+        "Mine": "3"
+    },
+    "16": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "16",
+        "Linear": "4",
+        "Mine": "3"
+    },
+    "17": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "17",
+        "Linear": "5",
+        "Mine": "3"
+    },
+    "18": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "18",
+        "Linear": "5",
+        "Mine": "3"
+    },
+    "19": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "19",
+        "Linear": "5",
+        "Mine": "3"
+    },
+    "20": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "20",
+        "Linear": "6",
+        "Mine": "4"
+    },
+    "21": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "21",
+        "Linear": "6",
+        "Mine": "4"
+    },
+    "22": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "22",
+        "Linear": "6",
+        "Mine": "4"
+    },
+    "23": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "23",
+        "Linear": "6",
+        "Mine": "4"
+    },
+    "24": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "24",
+        "Linear": "7",
+        "Mine": "4"
+    },
+    "25": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "25",
+        "Linear": "7",
+        "Mine": "5"
+    },
+    "26": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "26",
+        "Linear": "7",
+        "Mine": "5"
+    },
+    "27": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "27",
+        "Linear": "8",
+        "Mine": "5"
+    },
+    "28": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "28",
+        "Linear": "8",
+        "Mine": "5"
+    },
+    "29": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "29",
+        "Linear": "8",
+        "Mine": "5"
+    },
+    "30": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "30",
+        "Linear": "8",
+        "Mine": "6"
+    },
+    "31": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "31",
+        "Linear": "9",
+        "Mine": "6"
+    },
+    "32": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "32",
+        "Linear": "9",
+        "Mine": "6"
+    },
+    "33": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "33",
+        "Linear": "9",
+        "Mine": "6"
+    },
+    "34": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "34",
+        "Linear": "10",
+        "Mine": "6"
+    },
+    "35": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "35",
+        "Linear": "10",
+        "Mine": "7"
+    },
+    "36": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "36",
+        "Linear": "10",
+        "Mine": "7"
+    },
+    "37": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "37",
+        "Linear": "10",
+        "Mine": "7"
+    },
+    "38": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "38",
+        "Linear": "11",
+        "Mine": "7"
+    },
+    "39": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "39",
+        "Linear": "11",
+        "Mine": "7"
+    },
+    "40": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "40",
+        "Linear": "11",
+        "Mine": "8"
+    },
+    "41": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "41",
+        "Linear": "11",
+        "Mine": "8"
+    },
+    "42": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "42",
+        "Linear": "12",
+        "Mine": "8"
+    },
+    "43": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "43",
+        "Linear": "12",
+        "Mine": "8"
+    },
+    "44": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "44",
+        "Linear": "12",
+        "Mine": "8"
+    },
+    "45": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "45",
+        "Linear": "13",
+        "Mine": "9"
+    },
+    "46": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "46",
+        "Linear": "13",
+        "Mine": "9"
+    },
+    "47": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "47",
+        "Linear": "13",
+        "Mine": "9"
+    },
+    "48": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "48",
+        "Linear": "13",
+        "Mine": "9"
+    },
+    "49": {
+        "From": "School",
+        "My System": "Trash",
+        "School": "49",
+        "Linear": "14",
+        "Mine": "9"
+    },
+    "50": {
+        "From": "School",
+        "My System": "Bad",
+        "School": "50",
+        "Linear": "15",
+        "Mine": "10"
+    },
+    "51": {
+        "From": "School",
+        "My System": "Bad",
+        "School": "51",
+        "Linear": "16",
+        "Mine": "12"
+    },
+    "52": {
+        "From": "School",
+        "My System": "Bad",
+        "School": "52",
+        "Linear": "18",
+        "Mine": "14"
+    },
+    "53": {
+        "From": "School",
+        "My System": "Bad",
+        "School": "53",
+        "Linear": "19",
+        "Mine": "16"
+    },
+    "54": {
+        "From": "School",
+        "My System": "Bad",
+        "School": "54",
+        "Linear": "21",
+        "Mine": "18"
+    },
+    "55": {
+        "From": "School",
+        "My System": "Bad",
+        "School": "55",
+        "Linear": "22",
+        "Mine": "20"
+    },
+    "56": {
+        "From": "School",
+        "My System": "Bad",
+        "School": "56",
+        "Linear": "24",
+        "Mine": "22"
+    },
+    "57": {
+        "From": "School",
+        "My System": "Bad",
+        "School": "57",
+        "Linear": "25",
+        "Mine": "24"
+    },
+    "58": {
+        "From": "School",
+        "My System": "Bad",
+        "School": "58",
+        "Linear": "27",
+        "Mine": "26"
+    },
+    "59": {
+        "From": "School",
+        "My System": "Bad",
+        "School": "59",
+        "Linear": "28",
+        "Mine": "28"
+    },
+    "60": {
+        "From": "School",
+        "My System": "Meh",
+        "School": "60",
+        "Linear": "29",
+        "Mine": "30"
+    },
+    "61": {
+        "From": "School",
+        "My System": "Meh",
+        "School": "61",
+        "Linear": "31",
+        "Mine": "32"
+    },
+    "62": {
+        "From": "School",
+        "My System": "Meh",
+        "School": "62",
+        "Linear": "32",
+        "Mine": "34"
+    },
+    "63": {
+        "From": "School",
+        "My System": "Meh",
+        "School": "63",
+        "Linear": "34",
+        "Mine": "36"
+    },
+    "64": {
+        "From": "School",
+        "My System": "Meh",
+        "School": "64",
+        "Linear": "35",
+        "Mine": "38"
+    },
+    "65": {
+        "From": "School",
+        "My System": "Meh",
+        "School": "65",
+        "Linear": "37",
+        "Mine": "40"
+    },
+    "66": {
+        "From": "School",
+        "My System": "Meh",
+        "School": "66",
+        "Linear": "38",
+        "Mine": "42"
+    },
+    "67": {
+        "From": "School",
+        "My System": "Meh",
+        "School": "67",
+        "Linear": "40",
+        "Mine": "44"
+    },
+    "68": {
+        "From": "School",
+        "My System": "Meh",
+        "School": "68",
+        "Linear": "41",
+        "Mine": "46"
+    },
+    "69": {
+        "From": "School",
+        "My System": "Meh",
+        "School": "69",
+        "Linear": "43",
+        "Mine": "48"
+    },
+    "70": {
+        "From": "School",
+        "My System": "Ok",
+        "School": "70",
+        "Linear": "44",
+        "Mine": "50"
+    },
+    "71": {
+        "From": "School",
+        "My System": "Ok",
+        "School": "71",
+        "Linear": "45",
+        "Mine": "51"
+    },
+    "72": {
+        "From": "School",
+        "My System": "Ok",
+        "School": "72",
+        "Linear": "47",
+        "Mine": "52"
+    },
+    "73": {
+        "From": "School",
+        "My System": "Ok",
+        "School": "73",
+        "Linear": "48",
+        "Mine": "53"
+    },
+    "74": {
+        "From": "School",
+        "My System": "Ok",
+        "School": "74",
+        "Linear": "50",
+        "Mine": "54"
+    },
+    "75": {
+        "From": "School",
+        "My System": "Ok",
+        "School": "75",
+        "Linear": "51",
+        "Mine": "55"
+    },
+    "76": {
+        "From": "School",
+        "My System": "Ok",
+        "School": "76",
+        "Linear": "53",
+        "Mine": "56"
+    },
+    "77": {
+        "From": "School",
+        "My System": "Ok",
+        "School": "77",
+        "Linear": "54",
+        "Mine": "57"
+    },
+    "78": {
+        "From": "School",
+        "My System": "Ok",
+        "School": "78",
+        "Linear": "56",
+        "Mine": "58"
+    },
+    "79": {
+        "From": "School",
+        "My System": "Ok",
+        "School": "79",
+        "Linear": "57",
+        "Mine": "59"
+    },
+    "80": {
+        "From": "School",
+        "My System": "Good",
+        "School": "80",
+        "Linear": "58",
+        "Mine": "60"
+    },
+    "81": {
+        "From": "School",
+        "My System": "Good",
+        "School": "81",
+        "Linear": "60",
+        "Mine": "62"
+    },
+    "82": {
+        "From": "School",
+        "My System": "Good",
+        "School": "82",
+        "Linear": "61",
+        "Mine": "64"
+    },
+    "83": {
+        "From": "School",
+        "My System": "Good",
+        "School": "83",
+        "Linear": "63",
+        "Mine": "66"
+    },
+    "84": {
+        "From": "School",
+        "My System": "Good",
+        "School": "84",
+        "Linear": "64",
+        "Mine": "68"
+    },
+    "85": {
+        "From": "School",
+        "My System": "Good",
+        "School": "85",
+        "Linear": "66",
+        "Mine": "70"
+    },
+    "86": {
+        "From": "School",
+        "My System": "Good",
+        "School": "86",
+        "Linear": "67",
+        "Mine": "71"
+    },
+    "87": {
+        "From": "School",
+        "My System": "Good",
+        "School": "87",
+        "Linear": "69",
+        "Mine": "72"
+    },
+    "88": {
+        "From": "School",
+        "My System": "Good",
+        "School": "88",
+        "Linear": "70",
+        "Mine": "73"
+    },
+    "89": {
+        "From": "School",
+        "My System": "Good",
+        "School": "89",
+        "Linear": "72",
+        "Mine": "74"
+    },
+    "90": {
+        "From": "School",
+        "My System": "Great",
+        "School": "90",
+        "Linear": "73",
+        "Mine": "76"
+    },
+    "91": {
+        "From": "School",
+        "My System": "Great",
+        "School": "91",
+        "Linear": "76",
+        "Mine": "79"
+    },
+    "92": {
+        "From": "School",
+        "My System": "Great",
+        "School": "92",
+        "Linear": "78",
+        "Mine": "82"
+    },
+    "93": {
+        "From": "School",
+        "My System": "Great",
+        "School": "93",
+        "Linear": "81",
+        "Mine": "84"
+    },
+    "94": {
+        "From": "School",
+        "My System": "Great",
+        "School": "94",
+        "Linear": "83",
+        "Mine": "86"
+    },
+    "95": {
+        "From": "School",
+        "My System": "Great",
+        "School": "95",
+        "Linear": "86",
+        "Mine": "88"
+    },
+    "96": {
+        "From": "School",
+        "My System": "God",
+        "School": "96",
+        "Linear": "87",
+        "Mine": "91"
+    },
+    "97": {
+        "From": "School",
+        "My System": "God",
+        "School": "97",
+        "Linear": "90",
+        "Mine": "94"
+    },
+    "98": {
+        "From": "School",
+        "My System": "God",
+        "School": "98",
+        "Linear": "94",
+        "Mine": "96"
+    },
+    "99": {
+        "From": "School",
+        "My System": "God",
+        "School": "99",
+        "Linear": "97",
+        "Mine": "98"
+    },
+    "100": {
+        "From": "School",
+        "My System": "God",
+        "School": "100",
+        "Linear": "100",
+        "Mine": "100"
+    }
+}

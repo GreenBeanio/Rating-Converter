@@ -1,0 +1,58 @@
+{
+    "Trash": {
+        "Minimum": "0",
+        "Average": "5",
+        "Maximum": "9",
+        "Range": "0-9",
+        "Length": "10",
+        "From": "Mine"
+    },
+    "Bad": {
+        "Minimum": "10",
+        "Average": "20",
+        "Maximum": "29",
+        "Range": "10-29",
+        "Length": "20",
+        "From": "Mine"
+    },
+    "Meh": {
+        "Minimum": "30",
+        "Average": "40",
+        "Maximum": "49",
+        "Range": "30-49",
+        "Length": "20",
+        "From": "Mine"
+    },
+    "Ok": {
+        "Minimum": "50",
+        "Average": "55",
+        "Maximum": "59",
+        "Range": "50-59",
+        "Length": "10",
+        "From": "Mine"
+    },
+    "Good": {
+        "Minimum": "60",
+        "Average": "67",
+        "Maximum": "74",
+        "Range": "60-74",
+        "Length": "15",
+        "From": "Mine"
+    },
+    "Great": {
+        "Minimum": "75",
+        "Average": "82",
+        "Maximum": "89",
+        "Range": "75-89",
+        "Length": "15",
+        "From": "Mine"
+    },
+    "God": {
+        "Minimum": "90",
+        "Average": "95",
+        "Maximum": "100",
+        "Range": "90-100",
+        "Length": "10",
+        "From": "Mine"
+    }
+}
