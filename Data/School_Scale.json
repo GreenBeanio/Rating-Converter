@@ -1,5 +1,5 @@
 {
-    "Trash": {
+    "Horrible": {
         "Minimum": "0",
         "Average": "25",
         "Maximum": "49",
@@ -15,7 +15,7 @@
         "Length": "10",
         "From": "School"
     },
-    "Meh": {
+    "Mediocre": {
         "Minimum": "60",
         "Average": "65",
         "Maximum": "69",
@@ -23,7 +23,7 @@
         "Length": "10",
         "From": "School"
     },
-    "Ok": {
+    "Okay": {
         "Minimum": "70",
         "Average": "75",
         "Maximum": "79",
@@ -47,7 +47,7 @@
         "Length": "6",
         "From": "School"
     },
-    "God": {
+    "Excellent": {
         "Minimum": "96",
         "Average": "98",
         "Maximum": "100",

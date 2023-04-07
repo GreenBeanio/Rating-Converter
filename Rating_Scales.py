@@ -120,7 +120,9 @@ System_Box.addItems(["Mine", "School", "Linear"])
 Rating_Label = QLabel("Rating: ", parent=window)  # Static
 Rating_Box = QComboBox(parent=window)  # User
 Rating_Box.setPlaceholderText("Scale")
-Rating_Box.addItems(["Trash", "Bad", "Meh", "Ok", "Good", "Great", "God"])
+Rating_Box.addItems(
+    ["Horrible", "Bad", "Mediocre", "Okay", "Good", "Great", "Excellent"]
+)
 Selection_Label = QLabel("Selection: ", parent=window)  # Static
 Selection_Box = QComboBox(parent=window)  # User
 Selection_Box.setPlaceholderText("Scale")
